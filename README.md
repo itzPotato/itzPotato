@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @itzPotato
-- 👀 I’m interested in Python, HTML & CSS
+- 👀 I’m interested in Python, C, and AI
 - 🌱 I'm currently learning Artificial Intelligence with Python
